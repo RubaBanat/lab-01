@@ -1,7 +1,7 @@
 body {
     background-color : white;
 }
-@media (min-width: 768px ) {
+
     .a {
         background-color: rgb(22, 46, 22);
     }
@@ -34,10 +34,10 @@ body {
         background-color: rgb(238, 243, 238);
     }
     
-}
 
 
-@media (max-width: 767px ) {
+
+@media (max-width: 768px ) {
    
     .a {
         background-color: rgb(20, 8, 28);

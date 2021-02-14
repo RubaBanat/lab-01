@@ -1,4 +1,4 @@
-@media (min-width: 768px ) {
+
 .a {
  
     width: 960px;
@@ -63,10 +63,10 @@
  
 }
 
-}
 
 
-@media (max-width: 767px ) {
+
+@media (max-width: 768px ) {
    
     .a {
      
