@@ -1,20 +1,23 @@
-@media (min-width: 768px ) {
+
 .a {
  
     width: 960px;
     height: 100px;
+  
 }
 .b {
     width: 200px;
     height: 600px;
     float: left;
     padding-top: 300px;
+  
 }
 .c {
     width: 380px;
     height: 200px;
     float: left;
     padding-top: 100px;
+   
     
 }
 .d {
@@ -22,12 +25,14 @@
     height: 200px;
     float: right;
     padding-top: 100px;
+ 
 }
 .e {
     width: 190px;
     height: 250px;
     float: left;
     padding-top: 125px;
+  
 }
 .f {
    width: 190px;
@@ -41,7 +46,7 @@
     height: 250px;
     float: left;
     padding-top: 125px;
-
+   
 }
 .h {
    width: 190px;
@@ -49,59 +54,59 @@
     float: right;
     padding-top: 125px;
 
+
 }
 .i {
     width: 760px;
     height: 150px;
     float: right;
+ 
 }
 
-}
 
 
-@media (max-width: 767px ) {
+
+@media (max-width: 768px ) {
    
-        
-    div {
-        background-color: #d8d8d8 ;
-        box-sizing: border-box;
-        border: 1px solid gray;
-        padding: 50px;
-        
-    }
     .a {
      
         width: 480px;
         height: 75px;
+       
        
     }
     .b {
         width: 480px;
         height: 150px ;
         padding-top: 75px;
+       
     }
     .c {
         width: 480px;
         height: 125px;
         padding-top: 62.5px;
+       
         
     }
     .d {
         width: 480px;
         height: 125px;
         padding-top: 62.5px;
+    
     }
     .e {
         width: 240px;
         height: 250px;
         float: left;
         padding-top: 125px;
+    
     }
     .f {
        width: 240px;
         height: 250px;
         float: right;
         padding-top: 125px;
+      
     
     }
     .g {
@@ -109,6 +114,7 @@
         height: 250px;
         float: left;
         padding-top: 125px;
+       
     
     }
     .h {
@@ -116,6 +122,7 @@
         height: 250px;
         float: right;
         padding-top: 125px;
+     
     
     }
     .i {
@@ -123,6 +130,7 @@
         height: 80px;
         padding-top: 40px;
         float: left;
+
         
     }
     
